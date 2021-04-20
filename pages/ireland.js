@@ -1,4 +1,4 @@
-import { UncontrolledCarousel, Row, Col } from 'reactstrap';
+import Carousel from '@/components/Carousel';
 
 export default function Ireland() {
   function Photo(altText, caption, header) {
@@ -29,16 +29,13 @@ export default function Ireland() {
 
   return (
     <>
-      <div className="flex flex-col items-center justify-center dark:bg-navy">
+      <div className="flex flex-col items-center justify-center pb-5 dark:bg-navy">
         <main className="flex flex-col items-center justify-center flex-1 px-20 text-center text-navy">
           <h1 className="text-6xl m-6 font-bold dark:text-gray-100">
             Ireland: The Emerald Isles
           </h1>
-          <Row>
-            <Col md="8" className="mx-auto">
-              <UncontrolledCarousel items={images} />
-            </Col>
-          </Row>
+
+          <Carousel images={images} />
 
           <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
             {contentBlocks.map(item => {
@@ -51,8 +48,9 @@ export default function Ireland() {
                     {item.longName
                       ? item.longName.charAt(0).toUpperCase() +
                         item.longName.slice(1)
-                      : item.name.charAt(0).toUpperCase() + item.name.slice(1)}
-                      {' '}&rarr;
+                      : item.name.charAt(0).toUpperCase() +
+                        item.name.slice(1)}{' '}
+                    &rarr;
                   </h3>
                   <p className="mt-4 text-green text-xl">{item.blurb}</p>
                 </a>
