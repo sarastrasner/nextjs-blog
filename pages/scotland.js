@@ -1,4 +1,4 @@
-import { UncontrolledCarousel, Row, Col } from 'reactstrap';
+import Carousel from '@/components/Carousel';
 
 export default function Scotland() {
   function Photo(altText, caption, header) {
@@ -32,25 +32,22 @@ export default function Scotland() {
 
   return (
     <>
-      <div className="flex flex-col items-center justify-center dark:bg-navy">
+      <div className="flex flex-col items-center justify-center pb-5 dark:bg-navy">
         <main className="flex flex-col items-center justify-center flex-1 px-20 text-center text-navy">
           <h1 className="text-6xl m-6 font-bold dark:text-gray-100">
             Scotland
           </h1>
-          <Row>
-            <Col md="8" className="mx-auto">
-              <UncontrolledCarousel items={images} />
-            </Col>
-          </Row>
+
+          <Carousel images={images} />
 
           <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
             {contentBlocks.map(item => {
               return (
                 <a
                   href={`/ireland/${item.name}`}
-                  className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-green-600 focus:text-green-600"
+                  className="p-6 mt-6 text-left border dark:text-white w-96 rounded-xl hover:text-green-600 focus:text-green-600"
                 >
-                  <h3 className="text-2xl text-green font-bold">
+                  <h3 className="text-2xl dark:text-white text-green font-bold">
                     {item.longName
                       ? item.longName.charAt(0).toUpperCase() +
                         item.longName.slice(1)
@@ -58,7 +55,9 @@ export default function Scotland() {
                         item.name.slice(1)}{' '}
                     &rarr;
                   </h3>
-                  <p className="mt-4 text-green text-xl">{item.blurb}</p>
+                  <p className="mt-4 text-green dark:text-white text-xl">
+                    {item.blurb}
+                  </p>
                 </a>
               );
             })}

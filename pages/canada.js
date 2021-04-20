@@ -1,4 +1,5 @@
 import { UncontrolledCarousel, Row, Col } from 'reactstrap';
+import Carousel from '@/components/Carousel'
 
 export default function Canada() {
   function Photo(altText, caption, header) {
@@ -9,9 +10,9 @@ export default function Canada() {
     this.key = Math.random();
   }
 
-  let canadaImages = [];
+  let images = [];
   function addPhoto(alt, caption, header) {
-    canadaImages.push(new Photo(alt, caption, header));
+    images.push(new Photo(alt, caption, header));
   }
   addPhoto('UBC', 'Here is a caption', 'UBC Museum');
   addPhoto('vanDusen', 'caption2', 'VanDusen Botanical Garden');
@@ -28,14 +29,14 @@ export default function Canada() {
 
   return (
     <>
-      <div className="flex flex-col items-center justify-center dark:bg-navy">
+      <div className="flex flex-col items-center justify-center pb-5 dark:bg-navy">
         <main className="flex flex-col items-center justify-center flex-1 px-20 text-center text-navy">
           <h1 className="text-6xl m-6 font-bold dark:text-gray-100">
             Beautiful British Columbia
           </h1>
           <Row>
             <Col md="8" className="mx-auto">
-              <UncontrolledCarousel items={canadaImages} />
+            <Carousel images={images} />
             </Col>
           </Row>
 
