@@ -1,5 +1,3 @@
-import Carousel from '@/components/Carousel';
-import Image from 'next/image';
 import { UncontrolledCarousel, Row, Col } from 'reactstrap';
 
 export default function Canada() {
@@ -10,18 +8,24 @@ export default function Canada() {
     this.header = header;
     this.key = Math.random();
   }
-  
+
   let canadaImages = [];
-  function addPhoto (alt, caption, header){
+  function addPhoto(alt, caption, header) {
     canadaImages.push(new Photo(alt, caption, header));
   }
-  addPhoto("UBC", "Here is a caption", "UBC Museum");
-  addPhoto("vanDusen", "caption2", "VanDusen Botanical Garden");
-  addPhoto("whistler", "caption2", "Whistler Blackcomb");
+  addPhoto('UBC', 'Here is a caption', 'UBC Museum');
+  addPhoto('vanDusen', 'caption2', 'VanDusen Botanical Garden');
+  addPhoto('whistler', 'caption2', 'Whistler Blackcomb');
 
-  
-  console.log(canadaImages[0].src)
-  console.log(canadaImages)
+  let contentBlocks = [
+    {
+      name: 'vancouver',
+      blurb: 'Delicious food, friendly people, and gorgeous scenery.',
+    },
+    { name: 'whistler', blurb: 'World-class skiing and breathtaking scenery.' },
+    { name: 'victoria', blurb: 'Beautiful island.' },
+  ];
+
   return (
     <>
       <div className="flex flex-col items-center justify-center dark:bg-navy">
@@ -30,45 +34,34 @@ export default function Canada() {
             Beautiful British Columbia
           </h1>
           <Row>
-        <Col md="8" className="mx-auto">
-          <UncontrolledCarousel items={canadaImages} />
-        </Col>
-      </Row>
-    
+            <Col md="8" className="mx-auto">
+              <UncontrolledCarousel items={canadaImages} />
+            </Col>
+          </Row>
+
           {/* <p className="mt-3 text-2xl dark:text-gray-100">
             Where I've been and where I hope to go.
           </p> */}
 
           <div className="flex flex-wrap items-center justify-around max-w-4xl mt-6 sm:w-full">
-            <a
-              href="https://nextjs.org/docs"
-              className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
-            >
-              <h3 className="text-2xl font-bold">Vancouver &rarr;</h3>
-              <p className="mt-4 text-xl">
-                Delicious food, friendly people, and gorgeous scenery.
-              </p>
-            </a>
-
-            <a
-              href="https://nextjs.org/learn"
-              className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
-            >
-              <h3 className="text-2xl font-bold">Whistler &rarr;</h3>
-              <p className="mt-4 text-xl">
-                Learn about Next.js in an interactive course with quizzes!
-              </p>
-            </a>
-
-            <a
-              href="https://nextjs.org/learn"
-              className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-blue-600 focus:text-blue-600"
-            >
-              <h3 className="text-2xl font-bold">Victoria &rarr;</h3>
-              <p className="mt-4 text-xl">
-                Learn about Next.js in an interactive course with quizzes!
-              </p>
-            </a>
+            {contentBlocks.map(item => {
+              return (
+                <a
+                  href={`/canada/${item.name}`}
+                  className="p-6 mt-6 text-left border w-96 rounded-xl hover:text-green-600 focus:text-green-600"
+                >
+                  <h3 className="text-2xl text-green font-bold">
+                    {item.longName
+                      ? item.longName.charAt(0).toUpperCase() +
+                        item.longName.slice(1)
+                      : item.name.charAt(0).toUpperCase() +
+                        item.name.slice(1)}{' '}
+                    &rarr;
+                  </h3>
+                  <p className="mt-4 text-green text-xl">{item.blurb}</p>
+                </a>
+              );
+            })}
           </div>
         </main>
       </div>
