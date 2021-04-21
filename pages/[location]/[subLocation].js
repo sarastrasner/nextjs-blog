@@ -3,6 +3,12 @@ import { useRouter } from 'next/router';
 export default function Location(props) {
   const router = useRouter();
   const { location, subLocation } = router.query;
-  console.log(location, subLocation);
-  return <h1>{subLocation} Content!</h1>;
+
+  if (!subLocation) return <p>Loading...</p>
+  
+  return (
+    <h1>
+      {subLocation.charAt(0).toUpperCase() + subLocation.slice(1)} Content!
+    </h1>
+  );
 }
