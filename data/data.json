@@ -1,0 +1,94 @@
+[
+  {
+    "title": "scotland",
+    "images": [
+      {
+        "altText": "fairyHills",
+        "caption": "Isle of Skye",
+        "header": "The Fairy Hills"
+      },
+      {
+        "altText": "brothersPoint",
+        "caption": "Isle of Skye",
+        "header": "Brothers Point"
+      },
+      {
+        "altText": "edinburgh",
+        "caption": "caption",
+        "header": "Capital of Scotland"
+      }
+    ],
+    "subPages": [
+      {
+        "name": "skye",
+        "longName": "Isle of Syke",
+        "blurb": "The most beautiful place in Scotland"
+      },
+      { "name": "edinburgh", "blurb": "capital of Scotland" },
+      {
+        "name": "speyside",
+        "blurb": "Today's rain is tomorrow's whiskey"
+      }
+    ]
+  },
+  {
+    "title": "ireland",
+    "images": [
+      {
+        "altText": "guinness",
+        "caption": "Guinness!!",
+        "header": "The Guinness Experience"
+      },
+      {
+        "altText": "dunquin",
+        "caption": "caption",
+        "header": "Dunquin Pier"
+      },
+      {
+        "altText": "moher",
+        "caption": "caption",
+        "header": "The Cliffs of Moher"
+      }
+    ],
+    "subPages": [
+      { "name": "dublin", "blurb": "Top 10 things to do in Dublin" },
+      { "name": "galway", "blurb": "My favorite city in Ireland" },
+      {
+        "name": "dingle",
+        "longName": "The Dingle Peninsula",
+        "blurb": "Quaint, charming, and quintessentially Ireland."
+      }
+    ]
+  },
+  {
+    "title": "canada",
+    "images": [
+      {
+        "altText": "UBC",
+        "caption": "caption!!",
+        "header": "UBC Anthropology Museum"
+      },
+      {
+        "altText": "vanDusen",
+        "caption": "caption",
+        "header": "VanDusen Botanical Garden"
+      },
+      {
+        "altText": "whistler",
+        "caption": "caption",
+        "header": "Whistler Blackcomb"
+      }
+    ],
+    "subPages": [
+      {
+        "name": "vancouver",
+        "blurb": "Delicious food, friendly people, and gorgeous scenery."
+      },
+      {
+        "name": "whistler",
+        "blurb": "World-class skiing and breathtaking scenery."
+      },
+      { "name": "victoria", "blurb": "Beautiful island." }
+    ]
+  }
+]

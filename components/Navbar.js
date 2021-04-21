@@ -3,7 +3,8 @@ import Nav from 'react-bootstrap/Nav';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import ThemeToggler from '@/components/ThemeToggler';
 
-export default function NavigationBar() {
+export default function NavigationBar(props) {
+
   return (
     <div>
       <Navbar className="bg-lightPink">
