@@ -7,9 +7,13 @@ import { ThemeProvider } from 'next-themes';
 function MyApp({ Component, pageProps }) {
   return (
     <ThemeProvider attribute="class">
-      <Navbar />
-      <Component {...pageProps} />
-      <Footer />
+      <body class="flex flex-col min-h-screen ">
+        <Navbar />
+        <main class="flex-grow">
+          <Component {...pageProps} />
+        </main>
+        <Footer />
+      </body>
     </ThemeProvider>
   );
 }
