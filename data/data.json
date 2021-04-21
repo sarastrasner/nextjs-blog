@@ -22,7 +22,19 @@
       {
         "name": "skye",
         "longName": "Isle of Syke",
-        "blurb": "The most beautiful place in Scotland"
+        "blurb": "The most beautiful place in Scotland",
+        "images": [
+          {
+            "altText": "fairyHills",
+            "caption": "Isle of Skye",
+            "header": "The Fairy Hills"
+          },
+          {
+            "altText": "brothersPoint",
+            "caption": "Isle of Skye",
+            "header": "Brothers Point"
+          }
+        ]
       },
       { "name": "edinburgh", "blurb": "capital of Scotland" },
       {
