@@ -15,7 +15,6 @@ export default function Home(data) {
     <Link href={`/${place.title}`}></Link>;
     place.subPages.map(subPage => {
       <Link href={`/${place.title}/${subPage.name}`}></Link>;
-      console.log(`added link for /${place.title}/${subPage.name}`);
     });
   });
 
