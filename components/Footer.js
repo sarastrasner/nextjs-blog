@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
-    <footer className="flex items-center justify-center w-full h-24 border-t">
-      <p>Meow! This is a footer!</p>
+    <footer className="flex bg-green items-center justify-center text-lg mb-0 w-full h-24">
+      <p className="text-navy dark:text-white font-medium">Meow! This is a footer!</p>
     </footer>
   );
 }
