@@ -36,7 +36,7 @@ export default function Location(props) {
 
   return (
     <>
-      <div className="flex flex-col items-center justify-center pb-5 dark:bg-navy">
+      <div className="flex flex-col items-center justify-center pb-5">
         <main className="flex flex-col items-center justify-center flex-1 px-20 text-center text-navy">
           <h1 className="text-6xl m-6 font-bold dark:text-gray-100">{title}</h1>
 

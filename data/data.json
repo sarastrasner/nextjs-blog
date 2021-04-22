@@ -23,6 +23,7 @@
         "name": "skye",
         "longName": "Isle of Syke",
         "blurb": "The most beautiful place in Scotland",
+        "postType": "itinerary",
         "images": [
           {
             "altText": "fairyHills",
