@@ -20,7 +20,7 @@ export default function Home(data) {
 
   return (
     <>
-      <div className="min-h-screen py-20 flex flex-col items-center justify-center dark:bg-navy">
+      <div className="min-h-screen py-20 flex flex-col items-center justify-center">
         <Head>
           <title>Strassy Travels</title>
           <link rel="icon" href="@/public/favicons/favicon.ico" />
