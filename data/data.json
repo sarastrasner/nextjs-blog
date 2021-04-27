@@ -98,12 +98,14 @@
           { "type":"(don't) EAT: ",
             "title": "The Three Chimneys Restaurant",
             "content":"Sorry to be a hater, but we really didn't enjoy our meal here. This is the only Michelin-starred restaurant on Skye and the food was certainly interesting (think beautiful plating, hyperlocal ingredients, things made out of foam, etc.) but not super flavorful and defintely not worth the price tag. We both left hungry and disappointed.",
-            "tip": "They are also a 5-star accomodation. We decided not to stay here because it's a bit far from the main Skye attractions, but if you want a relaxing getaway, Three Chimneys might be worth looking into."
+            "tip": "They are also a 5-star accomodation. We decided not to stay here because it's a bit far from the main Skye attractions, but if you want a relaxing getaway, Three Chimneys might be worth looking into.",
+            "image":"threeChimneys"
           },
           { "type":"DO: ",
             "title": "Fairy Pools",
             "content":"A hugely popular Skye attraction, this is an easy walk along a series of small waterfalls with the Cuillin Mountains as a bacakdrop.",
-            "tip": "Try to visit this uber-popular attraction at at off-peak hours and be prepared for a single-lane road and lots of other tourists. We actually got stuck in a traffic jam leaving the Fairy Pools, and veered slightly off the road to make room for an oncoming car and damaged the underside of our rental car. So learn from our mistake- drive with extreme caution (on all of Skye)!"
+            "tip": "Try to visit this uber-popular attraction at at off-peak hours and be prepared for a single-lane road and lots of other tourists. We actually got stuck in a traffic jam leaving the Fairy Pools, and veered slightly off the road to make room for an oncoming car and damaged the underside of our rental car. So learn from our mistake- drive with extreme caution (on all of Skye)!",
+            "image":"fairyPools"
           },
           { "type":"DO: ",
             "title": "Old Sligachan Bridge",
@@ -112,7 +114,8 @@
           },
           { "type":"DO: ",
             "title": "Talisker Distillery",
-            "content":"Honestly, we just went to get out of the rain, but it is a cool distillery and a must-see if you like peaty Scotch."
+            "content":"Honestly, we just went to get out of the rain, but it is a cool distillery and a must-see if you like peaty Scotch.",
+            "image":"talisker"
           },
           { "type":"DO: ",
             "title": "Eilean Donan",

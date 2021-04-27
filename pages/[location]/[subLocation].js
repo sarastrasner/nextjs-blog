@@ -33,7 +33,7 @@ export default function Location(props) {
         <h1 className="text-6xl m-6 font-bold dark:text-gray-100">
           {currentSubPage.postTitle}
         </h1>
-        <div class="grid lg:grid-cols-3 gap-4 sm:grid-cols-1">
+        <div className="grid lg:grid-cols-3 gap-4 sm:grid-cols-1">
           <div className="bg-navy dark:bg-green text-white p-4 text-left">
             <h2 className="m-0 text-center">
               {subLocation.charAt(0).toUpperCase() + subLocation.slice(1)} at a
