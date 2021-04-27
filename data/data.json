@@ -48,42 +48,52 @@
           { "type":"DO: ",
             "title": "The Trotternish Loop! A MUST-SEE in Skye. It is absolutely gorgeous.",
             "shortTitle": "Trotternish Loop",
-            "content": "If you hit the road early and keep an eye on the clock, you can do the entire loop in a day. Although people come from all over the world to see Skye, there is very little infrastructure around the Trotternish attractions. i.e. none of the attractions have parking lots or restrooom facilities and you will be hard-pressed to find food for purchase anywhere. You will also mostly drive on one-lane roads. Pack a lunch and be prepared to do a few nature pees."
+            "content": "If you hit the road early and keep an eye on the clock, you can do the entire loop in a day. Although people come from all over the world to see Skye, there is very little infrastructure around the Trotternish attractions. i.e. none of the attractions have parking lots or restrooom facilities and you will be hard-pressed to find food for purchase anywhere. You will also mostly drive on one-lane roads. Pack a lunch and be prepared to do a few nature pees.",
+            "image":"trotternish"
+
           },
           { "type":"DO: ",
             "title": "Trotternish Loop Stop 1: Fairy Glen",
             "shortTitle": "Fairy Glen",
             "content":"Located on a quiet corner of Skye, Fairy Glen is absolutely gorgeous and not nearly as popular as a few of the other 'Fairy' attractions in Skye",
-            "tip": "Be prepared for mud!"
+            "tip": "Be prepared for mud!",
+            "image":"fairyHills"
+
           },
           { "type":"DO: ",
             "title": "Trotternish Loop Stop 2: Quiriang",
             "shortTitle": "Quiraing",
             "content":"Quiraing is an iconic Skye attraction featuring some of the most spectacular landscapes in Scotland.",
-            "tip": "An excellent place to get engaged. Would do again. Also, skip the crowded carpark at the highest point of the single lane road. Keep going down the road (headed east) and park near the cemetary. You will have the place to yourself."
+            "tip": "An excellent place to get engaged. Would do again. Also, skip the crowded carpark at the highest point of the single lane road. Keep going down the road (headed east) and park near the cemetary. You will have the place to yourself.",
+            "image":"quiriang"
+
           },
           { "type":"DO: ",
             "title": "Trotternish Loop Stop 3: Kilt Rock and Mealt Falls",
             "shortTitle": "Kilt Rock & Mealt Falls",
             "content":"This is one of those 'get out of the car for a few minutes for oohs and ahhs then move on stops'. It's definitely still worth seeing, but it's essentially a small parking lot and a lookout.",
-            "tip": "Between Quiraing and Kilt Rock, you'll pass through Staffin, which has a grocery store and a few gas stations. Staffin Stores Bathroom: 6/10"
+            "tip": "Between Quiraing and Kilt Rock, you'll pass through Staffin, which has a grocery store and a few gas stations. Staffin Stores Bathroom: 6/10",
+            "image":"kiltRock"
           },
           { "type":"DO: ",
             "title": "Trotternish Loop Stop 4: Brother's Point",
             "shortTitle": "Brother's Point",
             "content":"Brother's Point is another little-known gem on the Isle. We only saw one other couple the entire time.",
-            "tip": "All of the other stops on the Loop are easy to see without hiking, but Brother's Point is a little different. The entire hike is about 2 miles total on a non-maintained trail that can be quite muddy. Brother's Point is well worth it, though, and will surely be a highlight of your entire Skye visit."
+            "tip": "All of the other stops on the Loop are easy to see without hiking, but Brother's Point is a little different. The entire hike is about 2 miles total on a non-maintained trail that can be quite muddy. Brother's Point is well worth it, though, and will surely be a highlight of your entire Skye visit.",
+            "image":"brothersPoint"
           },
           { "type":"DO: ",
             "title": "Trotternish Loop Stop 5: Old Man of Storr",
             "shortTitle": "Old Man of Storr",
             "content":"The clouds rolled in and we were exhausted, so we didn't complete the entire three mile hike, but with nice weather, the Storr hike has amazing views of Skye",
-            "tip": "Storr is a very popular hike, so be prepared for crowds, especially in the peak summer season."
+            "tip": "Storr is a very popular hike, so be prepared for crowds, especially in the peak summer season.",
+            "image":"storr"
           },
           { "type":"DO: ",
             "title": "Neist Point",
             "content":"Neist Point is secluded from the other main attractions of Skye, but well worth the 1-hour drive from Portree. It is picturesque.",
-            "tip": "The road to this very popular attraction is a single lane road, and the parking lot is quite small. Pack your patience."
+            "tip": "The road to this very popular attraction is a single lane road, and the parking lot is quite small. Pack your patience.",
+            "image":"neistPoint"
           },
           { "type":"(don't) EAT: ",
             "title": "The Three Chimneys Restaurant",
@@ -96,13 +106,19 @@
             "tip": "Try to visit this uber-popular attraction at at off-peak hours and be prepared for a single-lane road and lots of other tourists. We actually got stuck in a traffic jam leaving the Fairy Pools, and veered slightly off the road to make room for an oncoming car and damaged the underside of our rental car. So learn from our mistake- drive with extreme caution (on all of Skye)!"
           },
           { "type":"DO: ",
+            "title": "Old Sligachan Bridge",
+            "content":"If you want a guarantee that you will be beautiful forever, this is the place for you! Legend has it that if you submerge your face in the (freezing cold) waters under the bridge for seven seconds, you will be granted eternal beauty. Aside from the eternal beauty part, there's not a ton to do at the bridge (which is a very popular attraction), but it's on the way to Portree and worth a quick stop",
+            "image":"skyeBridge"
+          },
+          { "type":"DO: ",
             "title": "Talisker Distillery",
             "content":"Honestly, we just went to get out of the rain, but it is a cool distillery and a must-see if you like peaty Scotch."
           },
           { "type":"DO: ",
             "title": "Eilean Donan",
             "content":"On your way into our out of Skye, visit Eilean Donan Castle. Located on a small tidal island, Eilean Donan was certainly the coolest castle we saw in Scotland. It has been featured in countless movies, including The World is Not Enough",
-            "tip": "Don't feel too bad if you also balk at the £10.00 ticket price. We opted to just take a few photos, visit the Gift Shop, and stock up on snacks at the Coffee Shop before a long day of driving back to Edinburgh. Also, for the record- Eilean Donan is actually a 20th-century reconstruction of the old castle."
+            "tip": "Don't feel too bad if you also balk at the £10.00 ticket price. We opted to just take a few photos, visit the Gift Shop, and stock up on snacks at the Coffee Shop before a long day of driving back to Edinburgh. Also, for the record- Eilean Donan is actually a 20th-century reconstruction of the old castle.",
+            "image":"eileanDonan"
           }
         ]
       },
