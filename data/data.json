@@ -125,10 +125,175 @@
           }
         ]
       },
-      { "name": "edinburgh", "blurb": "capital of Scotland" },
+      { "name": "edinburgh", 
+        "longName": "Edinburgh",
+        "blurb": "Capital of Scotland",
+        "postType": "itinerary",
+        "images": [
+          {
+            "altText": "edinburgh1",
+            "caption": "sweeping views of Scotland's capital",
+            "header": "Calton Hill"
+          },
+          {
+            "altText": "uniEdinburgh",
+            "caption": "the sixth-oldest university in the UK",
+            "header": "University of Edinburgh"
+          },
+          {
+            "altText": "harryPotterStore",
+            "caption": "You'll find lots of stores selling Harry Potter merchandise",
+            "header": "Edinbirgh: Birthplace of Harry Potter"
+          }
+        ],
+        "postTitle": "Soaking up the Scottish Capital",
+        "postBlurb":"WHERE IS THIS??",
+        "postList": [
+          { "type":"STAY: ",
+            "title": "hub by Premier Inn Edinburgh Royal Mile hotel",
+            "shortTitle": "Royal Mile",
+            "content": "Apparently well-designed, compact, budget hotels are a thing in Europe, and this is a great example. It's very affordable and SUPER close to the main tourist attractions and the train station.",
+            "image":"hubEdinburgh"
+          },
+          { "type":"DRINK: ",
+            "title": "The Jolly Judge",
+            "content": "This was our favorite pub in Edinburgh and we went multiple times. It's everything you'd hope for in a Scottish pub: off the main street in an alley, underground, dark interior, low ceilings, tartan carpet, and lots of lively conversations. A great place to duck into for a pint (or many), especially as a respite from the Scottish rain.",
+            "image":"jollyJudge"
+          },
+          { "type":"SHOP: ",
+            "title": "Gladstone's Land",
+            "content": "Did we go to the museum? Nope. Did we shop in the gift shop? Yes, multple times (including after a few pints at the Jolly Judge). In all seriousness, though, this was the best gift shop we encountered in Edinburgh. Plus, all the proceeds support the National Trust for Scotland.",
+            "image":"gladstonesLand"
+          },
+          { "type":"DO: ",
+            "title": "Explore the Royal Mile",
+            "content": "This is the main thoroughfare of the Old Town. You'll find lots of shops selling wool and cashmere goods and assorted tchotchkes. Shopping aside, this is just a great historic area to explore.",
+            "tip":"Hopefully your Scotland travels will include a trip up to the Highlands, which has much better prices on wool and cashmere goods. We also heard from one of the shopkeepers that most of the shops on the Royal Mile are owned by the same person, so don't feel guilty about shopping locally elsewhere.",
+            "image":"royalMile"
+          },
+          { "type":"DO: ",
+            "title": "Explore Edinburgh Castle",
+            "content": "Full disclosure: as far as European castles go, this is nothing to write home about.",
+            "tip":"Ships in the Firth of Forth once set their maritime clocks by the One o’Clock Gun, which is still fired daily (except Sunday) from Edinburgh Castle.",
+            "image":"gladstonesLand"
+          },
+          { "type":"SEE: ",
+            "title": "Princes Street Gardens",
+            "content": "A gorgeous park in the middle of Edinburgh with beautiful views of Edinburgh castle. Don't miss the Sir Walter Scott monument.",
+            "image":"princesGardens"
+          },
+          { "type":"DO: ",
+            "title": "Edinburgh Bus Tour",
+            "content": "Ok, hear me out. I know bus tours are generally pretty lame, but this one was well-done and a great introduction to the city for first-time visitors. I can't speak for all the guides, but ours was wonderful. We learned a lot about Edinburgh and all of our guides recommendations were legit.",
+            "image":"princesGardens"
+          },
+          { "type":"SEE: ",
+            "title": "Calton Hill",
+            "content": "Neoclassical monuments, sweeping views of the city skyline and Edinburgh Castle. What's not to like?",
+            "image":"caltonHill"
+          },
+          { "type":"(maybe) SEE: ",
+            "title": "Old Calton Cemetery",
+            "content": "There are two types of people in this world: those that like to visit cemeteries and those that do not. If you're in the latter group, this is definitely skippable. If you're a cemetery-loving weirdo, you'll find this place to be conveniently located right by Calton Hill",
+            "image":"caltonCemetery"
+          },
+          { "type":"DO: ",
+            "title": "Sandy Bell's",
+            "content": "This small, lively pub is known for having real ales and live Scottish folk music most nights. We were lucky enough to catch a trad session, which was absolutely amazing.",
+            "tip": "This pub is near two other great Edinburgh attractions: the Greyfriars Bobby Statue and The Elephant House Cafe (where J.K. Rowling started writing Harry Potter).",
+            "image":"guildfordArms"
+          },
+          { "type":"EAT: ",
+            "title": "(honestly not sure)",
+            "shortTitle": "Eat & Drink",
+            "content": "Finding good food in Edinburgh was tougher than we expected. We tried and didn't love: Deacon Brodie's Tavern, Whiski Rooms, The Barony, The Last Drop, and the Guildford Arms. If you want good food in Edinburgh, I think you'll need to do some research and be willing to commute away from the touristy areas and try non-Scottish fare.",
+            "image":"guildfordArms"
+          }
+        ]
+      },
       {
         "name": "speyside",
-        "blurb": "Today's rain is tomorrow's whiskey"
+        "blurb": "Today's rain is tomorrow's whiskey",
+        "longName": "Speyside",
+        "postType": "itinerary",
+        "images": [
+          {
+            "altText": "macallan2",
+            "caption": "probably the fanciest distillery you will ever visit",
+            "header": "The Macallan"
+          },
+          {
+            "altText": "macallan3",
+            "caption": "a must-see distillery experience",
+            "header": "The Macallan"
+          },
+          {
+            "altText": "highlandCow",
+            "caption": "Is it even a trip to the Highlands if you don't see a Highland Cow?",
+            "header": "Highland Cow"
+          },
+          {
+            "altText": "riverSpey",
+            "caption": "might as well reach out and touch the river that shapes so much of the world's whisky",
+            "header": "The River Spey"
+          },
+          {
+            "altText": "hike",
+            "caption": "You'll probably see more sheep than people.",
+            "header": "Roam the Scottish Highlands"
+          }
+        ],
+        "postTitle": "Speyside",
+        "postBlurb":"WHERE IS THIS??",
+        "postList": [
+          { "type":"STAY: ",
+            "title": "Cardhu Country House",
+            "content": "Out of all the places we stayed on our Ireland and Scotland trip, this was our absolute favorite. The room was quaint and cozy, the hosts were friendly, and the breakfast was delicious. Grant got Buttered Moray Coast Kippers and I got whisky porridge. I still think about that porridge.",
+            "tip":"If the Macallan is on your to-do list (and it should be), this place is very close (about 15 minutes away).",
+            "image":"hubEdinburgh"
+          },
+          { "type":"DRINK: ",
+            "title": "The Macallan",
+            "content": "The Macallan, aka Malt Disney, is NEXT LEVEL. Even if you don't like Scotch, this place is well-worth a visit. How many opportunities will you have to sip Scotch in a $185 million building overlooking the River Spey?",
+            "tip":"There's not a lot of food options nearby, and the food at the Macallan is local, Scottish, and delicious.",
+            "image":"macallan"
+          },
+          { "type":"DO: ",
+            "title": "experience traditional Scottish weaving at Johnston’s of Elgin",
+            "shortTitle": "Johnston’s of Elgin",
+            "content": "Established in 1797 on the River Lossie, Johnston's still produces high-quality cashmere garments and tartan in its Elgin Mill. There is a lot to see and do here: take a free tour of the mill, enjoy a meal in the Weavers Restaurant, and try not to empty your bank account in the Mill Shop. This place is a must-visit!",
+            "tip":"Try to go on a weekday, when all the looms will be in operation. Also, prices in the Mill Shop are much better than you'll find elsewhere, so go wild! Also, stop by nearby Elgin Cathedral.",
+            "image":"johnstons"
+          },
+          { "type":" (maybe) DRINK: ",
+            "title": "Glen Grant",
+            "content": "Listen, there are a LOT of distilleries in Speyside. Glen Grant is nice, especially with its Victorian Garden, but not necessarily a must-see.",
+            "image":"macallan"
+          },
+          { "type":"DRINK: ",
+            "title": "Tomatin",
+            "content": "Tomatin is one of the few independently-owned distilleries in Speyside. We wanted to support them, but had an unexpectedly memorable experience. We wanted to drink whisky older than us and saw a dram of Tomatin 36 on the tasting menu. We savored every drop of the $20 pour, so much that the bartender said he'd never seen anyone make a dram last that long before.",
+            "tip":"The drive to this rural distillery is absolutely stunning!",
+            "image":"macallan"
+          },
+          { "type":"DO: ",
+            "title": "exercise your right to roam",
+            "shortTitle": "Exercise Your Right to Roam",
+            "content": "The Macallan, aka Malt Disney, is NEXT LEVEL. Even if you don't like Scotch, this place is well-worth a visit. How many opportunities will you have to sip Scotch in a $185 million building overlooking the River Spey?",
+            "tip":"There's not a lot of food options nearby, and the food at the Macallan is local, Scottish, and delicious",
+            "image":"hike2"
+          },
+          { "type":"(probably don't) VISIT: ",
+            "title": "Inverness",
+            "content": "Known as the Gateway to the Highlands, Inverness is a tempting stopover on any Highlands visit. However, we only stayed for a few hours and couldn't find a whole lot to do.",
+            "image":"inverness"
+          },
+          { "type":"(don't) STAY: ",
+            "title": "Tulloch Castle",
+            "content": "Should you try to stay in a Scottish Castle? Yes. Should you stay at Tulloch Castle? Absolutely not. The room was overpriced and a little dingy and the staff were sparse and irritable.",
+            "image":"tulloch"
+          }
+        ]
       }
     ]
   },
