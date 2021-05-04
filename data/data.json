@@ -272,15 +272,14 @@
           },
           { "type":"DRINK: ",
             "title": "Tomatin",
-            "content": "Tomatin is one of the few independently-owned distilleries in Speyside. We wanted to support them, but had an unexpectedly memorable experience. We wanted to drink whisky older than us and saw a dram of Tomatin 36 on the tasting menu. We savored every drop of the $20 pour, so much that the bartender said he'd never seen anyone make a dram last that long before.",
+            "content": "Tomatin is one of the few independently-owned distilleries in Speyside. We wanted to support them, but had an unexpectedly amazing experience. We wanted to drink whisky older than us and saw a dram of Tomatin 36 on the tasting menu. We savored every drop of the $20 pour, so much that the bartender said he'd never seen anyone make a dram last that long before.",
             "tip":"The drive to this rural distillery is absolutely stunning!",
             "image":"macallan"
           },
           { "type":"DO: ",
             "title": "exercise your right to roam",
             "shortTitle": "Exercise Your Right to Roam",
-            "content": "The Macallan, aka Malt Disney, is NEXT LEVEL. Even if you don't like Scotch, this place is well-worth a visit. How many opportunities will you have to sip Scotch in a $185 million building overlooking the River Spey?",
-            "tip":"There's not a lot of food options nearby, and the food at the Macallan is local, Scottish, and delicious",
+            "content": "The right to roam allows everyone to access most land and inland water in Scotland for recreational and other purposes, so take advantage of it! Get out and enjoy a hike, and don't be too proud to hop a fence or two.",
             "image":"hike2"
           },
           { "type":"(probably don't) VISIT: ",
@@ -317,7 +316,64 @@
       }
     ],
     "subPages": [
-      { "name": "dublin", "blurb": "Top 10 things to do in Dublin" },
+      { "name": "dublin", 
+        "blurb": "Must-See Dublin", 
+        "longName": "Dublin",
+        "postType": "itinerary",
+        "images": [
+          {
+            "altText": "fairyHills",
+            "caption": "Isle of Skye",
+            "header": "The Fairy Hills"
+          },
+          {
+            "altText": "brothersPoint",
+            "caption": "Isle of Skye",
+            "header": "Brothers Point"
+          }
+        ],
+        "postTitle": "Must-See Dublin",
+        "postBlurb":"Dublin is full of history, attractions, and warm and friendly people. Eager to get out into the Irish countryside, we only had one full day in the city, but were able to see everything on our list.",
+        "postList": [
+          { "type":"DO: ",
+            "title": "Book of Kells",
+            "shortTitle": "Portree",
+            "content": "a.k.a. Super Touristy Thing that You Should Still Do Anyway #1. These illuminated manuscripts from the 9th century are a hugely popular tourist attraction in Dublin.",
+            "tip": "After seeing the manuscripts, you'll go up a flight of stairs to the Long Room, one of the world's most beautiful libraries.",
+            "image":"longRoom"
+          },
+          { "type":"DO: ",
+            "title": "explore Trinity College",
+            "shortTitle": "Trinity College",
+            "content": "a.k.a. Super Touristy Thing that You Should Still Do Anyway #2. The campus at Trinity College is absolutely gorgeous and well worth a stroll after visiting the Book of Kells.",
+            "image":"trinity"
+          },
+          { "type":"DO: ",
+            "title": "The Guinness Storehouse",
+            "content": "a.k.a. Super Touristy Thing that You Should Still Do Anyway #3. The lesson on how to pour a Guinness is well-worth the visit. Plus you get a fun little certificate! Woohoo!",
+            "image":"guinness2"
+          },
+          { "type":"DO: ",
+            "title": "Explore Temple Bar",
+            "content": "Temple Bar is touristy, but still beautiful and full of history",
+            "tip": "Don't miss the Molly Malone Statue and Ha'penny Bridge",
+            "image":"templeBar"
+          },
+          { "type":"DRINK: ",
+            "title": "at The Dame Tavern",
+            "shortTitle": "The Dame Tavern",
+            "content": "Albeit a little (ok, a lot) touristy, this place is still worth visiting. The lesson on how to pour a Guinness is well-worth the visit. Plus you get a fun little certificate! Woohoo!",
+            "image":"dameTavern"
+          },
+          { "type":"EAT: ",
+            "title": "The Old Stand Pub",
+            "content": "Albeit a little (ok, a lot) touristy, this place is still worth visiting. The lesson on how to pour a Guinness is well-worth the visit. Plus you get a fun little certificate! Woohoo!",
+            "image":"guinness2"
+          }
+        ]
+      
+      
+      },
       { "name": "galway", "blurb": "My favorite city in Ireland" },
       {
         "name": "dingle",
