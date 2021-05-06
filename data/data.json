@@ -1,6 +1,7 @@
 [
   {
     "title": "scotland",
+    "blurb": "Scotland blurb here!",
     "images": [
       {
         "altText": "fairyHills",
@@ -37,95 +38,106 @@
           }
         ],
         "postTitle": "Two Perfect Days in Skye",
-        "postBlurb":"Skye is absolutely stunning and full of natural beauty.",
+        "postBlurb": "Skye is absolutely stunning and full of natural beauty.",
         "postList": [
-          { "type":"STAY: ",
+          {
+            "type": "STAY: ",
             "title": "Portree",
             "shortTitle": "Portree",
             "content": "Portree is Skye's largest town. Plus, it's just a cute little village and centrally located.",
-            "image":"portree"
+            "image": "portree"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "The Trotternish Loop! A MUST-SEE in Skye. It is absolutely gorgeous.",
             "shortTitle": "Trotternish Loop",
             "content": "If you hit the road early and keep an eye on the clock, you can do the entire loop in a day. Although people come from all over the world to see Skye, there is very little infrastructure around the Trotternish attractions. i.e. none of the attractions have parking lots or restrooom facilities and you will be hard-pressed to find food for purchase anywhere. You will also mostly drive on one-lane roads. Pack a lunch and be prepared to do a few nature pees.",
-            "image":"trotternish"
-
+            "image": "trotternish"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Trotternish Loop Stop 1: Fairy Glen",
             "shortTitle": "Fairy Glen",
-            "content":"Located on a quiet corner of Skye, Fairy Glen is absolutely gorgeous and not nearly as popular as a few of the other 'Fairy' attractions in Skye",
+            "content": "Located on a quiet corner of Skye, Fairy Glen is absolutely gorgeous and not nearly as popular as a few of the other 'Fairy' attractions in Skye",
             "tip": "Be prepared for mud!",
-            "image":"fairyHills"
-
+            "image": "fairyHills"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Trotternish Loop Stop 2: Quiriang",
             "shortTitle": "Quiraing",
-            "content":"Quiraing is an iconic Skye attraction featuring some of the most spectacular landscapes in Scotland.",
+            "content": "Quiraing is an iconic Skye attraction featuring some of the most spectacular landscapes in Scotland.",
             "tip": "An excellent place to get engaged. Would do again. Also, skip the crowded carpark at the highest point of the single lane road. Keep going down the road (headed east) and park near the cemetary. You will have the place to yourself.",
-            "image":"quiriang"
-
+            "image": "quiriang"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Trotternish Loop Stop 3: Kilt Rock and Mealt Falls",
             "shortTitle": "Kilt Rock & Mealt Falls",
-            "content":"This is one of those 'get out of the car for a few minutes for oohs and ahhs then move on stops'. It's definitely still worth seeing, but it's essentially a small parking lot and a lookout.",
+            "content": "This is one of those 'get out of the car for a few minutes for oohs and ahhs then move on stops'. It's definitely still worth seeing, but it's essentially a small parking lot and a lookout.",
             "tip": "Between Quiraing and Kilt Rock, you'll pass through Staffin, which has a grocery store and a few gas stations. Staffin Stores Bathroom: 6/10",
-            "image":"kiltRock"
+            "image": "kiltRock"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Trotternish Loop Stop 4: Brother's Point",
             "shortTitle": "Brother's Point",
-            "content":"Brother's Point is another little-known gem on the Isle. We only saw one other couple the entire time.",
+            "content": "Brother's Point is another little-known gem on the Isle. We only saw one other couple the entire time.",
             "tip": "All of the other stops on the Loop are easy to see without hiking, but Brother's Point is a little different. The entire hike is about 2 miles total on a non-maintained trail that can be quite muddy. Brother's Point is well worth it, though, and will surely be a highlight of your entire Skye visit.",
-            "image":"brothersPoint"
+            "image": "brothersPoint"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Trotternish Loop Stop 5: Old Man of Storr",
             "shortTitle": "Old Man of Storr",
-            "content":"The clouds rolled in and we were exhausted, so we didn't complete the entire three mile hike, but with nice weather, the Storr hike has amazing views of Skye",
+            "content": "The clouds rolled in and we were exhausted, so we didn't complete the entire three mile hike, but with nice weather, the Storr hike has amazing views of Skye",
             "tip": "Storr is a very popular hike, so be prepared for crowds, especially in the peak summer season.",
-            "image":"storr"
+            "image": "storr"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Neist Point",
-            "content":"Neist Point is secluded from the other main attractions of Skye, but well worth the 1-hour drive from Portree. It is picturesque.",
+            "content": "Neist Point is secluded from the other main attractions of Skye, but well worth the 1-hour drive from Portree. It is picturesque.",
             "tip": "The road to this very popular attraction is a single lane road, and the parking lot is quite small. Pack your patience.",
-            "image":"neistPoint"
+            "image": "neistPoint"
           },
-          { "type":"(don't) EAT: ",
+          {
+            "type": "(don't) EAT: ",
             "title": "The Three Chimneys Restaurant",
-            "content":"Sorry to be a hater, but we really didn't enjoy our meal here. This is the only Michelin-starred restaurant on Skye and the food was certainly interesting (think beautiful plating, hyperlocal ingredients, things made out of foam, etc.) but not super flavorful and defintely not worth the price tag. We both left hungry and disappointed.",
+            "content": "Sorry to be a hater, but we really didn't enjoy our meal here. This is the only Michelin-starred restaurant on Skye and the food was certainly interesting (think beautiful plating, hyperlocal ingredients, things made out of foam, etc.) but not super flavorful and defintely not worth the price tag. We both left hungry and disappointed.",
             "tip": "They are also a 5-star accomodation. We decided not to stay here because it's a bit far from the main Skye attractions, but if you want a relaxing getaway, Three Chimneys might be worth looking into.",
-            "image":"threeChimneys"
+            "image": "threeChimneys"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Fairy Pools",
-            "content":"A hugely popular Skye attraction, this is an easy walk along a series of small waterfalls with the Cuillin Mountains as a bacakdrop.",
+            "content": "A hugely popular Skye attraction, this is an easy walk along a series of small waterfalls with the Cuillin Mountains as a bacakdrop.",
             "tip": "Try to visit this uber-popular attraction at at off-peak hours and be prepared for a single-lane road and lots of other tourists. We actually got stuck in a traffic jam leaving the Fairy Pools, and veered slightly off the road to make room for an oncoming car and damaged the underside of our rental car. So learn from our mistake- drive with extreme caution (on all of Skye)!",
-            "image":"fairyPools"
+            "image": "fairyPools"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Old Sligachan Bridge",
-            "content":"If you want a guarantee that you will be beautiful forever, this is the place for you! Legend has it that if you submerge your face in the (freezing cold) waters under the bridge for seven seconds, you will be granted eternal beauty. Aside from the eternal beauty part, there's not a ton to do at the bridge (which is a very popular attraction), but it's on the way to Portree and worth a quick stop",
-            "image":"skyeBridge"
+            "content": "If you want a guarantee that you will be beautiful forever, this is the place for you! Legend has it that if you submerge your face in the (freezing cold) waters under the bridge for seven seconds, you will be granted eternal beauty. Aside from the eternal beauty part, there's not a ton to do at the bridge (which is a very popular attraction), but it's on the way to Portree and worth a quick stop",
+            "image": "skyeBridge"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Talisker Distillery",
-            "content":"Honestly, we just went to get out of the rain, but it is a cool distillery and a must-see if you like peaty Scotch.",
-            "image":"talisker"
+            "content": "Honestly, we just went to get out of the rain, but it is a cool distillery and a must-see if you like peaty Scotch.",
+            "image": "talisker"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Eilean Donan",
-            "content":"On your way into our out of Skye, visit Eilean Donan Castle. Located on a small tidal island, Eilean Donan was certainly the coolest castle we saw in Scotland. It has been featured in countless movies, including The World is Not Enough",
+            "content": "On your way into our out of Skye, visit Eilean Donan Castle. Located on a small tidal island, Eilean Donan was certainly the coolest castle we saw in Scotland. It has been featured in countless movies, including The World is Not Enough",
             "tip": "Don't feel too bad if you also balk at the £10.00 ticket price. We opted to just take a few photos, visit the Gift Shop, and stock up on snacks at the Coffee Shop before a long day of driving back to Edinburgh. Also, for the record- Eilean Donan is actually a 20th-century reconstruction of the old castle.",
-            "image":"eileanDonan"
+            "image": "eileanDonan"
           }
         ]
       },
-      { "name": "edinburgh", 
+      {
+        "name": "edinburgh",
         "longName": "Edinburgh",
         "blurb": "Capital of Scotland",
         "postType": "itinerary",
@@ -147,67 +159,78 @@
           }
         ],
         "postTitle": "Soaking up the Scottish Capital",
-        "postBlurb":"WHERE IS THIS??",
+        "postBlurb": "We absolutely loved Edinburgh and even extended our stay by a night to have more time in this beautiful, historic city.",
         "postList": [
-          { "type":"STAY: ",
+          {
+            "type": "STAY: ",
             "title": "hub by Premier Inn Edinburgh Royal Mile hotel",
             "shortTitle": "Royal Mile",
             "content": "Apparently well-designed, compact, budget hotels are a thing in Europe, and this is a great example. It's very affordable and SUPER close to the main tourist attractions and the train station.",
-            "image":"hubEdinburgh"
+            "image": "hubEdinburgh"
           },
-          { "type":"DRINK: ",
+          {
+            "type": "DRINK: ",
             "title": "The Jolly Judge",
             "content": "This was our favorite pub in Edinburgh and we went multiple times. It's everything you'd hope for in a Scottish pub: off the main street in an alley, underground, dark interior, low ceilings, tartan carpet, and lots of lively conversations. A great place to duck into for a pint (or many), especially as a respite from the Scottish rain.",
-            "image":"jollyJudge"
+            "image": "jollyJudge"
           },
-          { "type":"SHOP: ",
+          {
+            "type": "SHOP: ",
             "title": "Gladstone's Land",
             "content": "Did we go to the museum? Nope. Did we shop in the gift shop? Yes, multple times (including after a few pints at the Jolly Judge). In all seriousness, though, this was the best gift shop we encountered in Edinburgh. Plus, all the proceeds support the National Trust for Scotland.",
-            "image":"gladstonesLand"
+            "image": "gladstonesLand"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Explore the Royal Mile",
             "content": "This is the main thoroughfare of the Old Town. You'll find lots of shops selling wool and cashmere goods and assorted tchotchkes. Shopping aside, this is just a great historic area to explore.",
-            "tip":"Hopefully your Scotland travels will include a trip up to the Highlands, which has much better prices on wool and cashmere goods. We also heard from one of the shopkeepers that most of the shops on the Royal Mile are owned by the same person, so don't feel guilty about shopping locally elsewhere.",
-            "image":"royalMile"
+            "tip": "Hopefully your Scotland travels will include a trip up to the Highlands, which has much better prices on wool and cashmere goods. We also heard from one of the shopkeepers that most of the shops on the Royal Mile are owned by the same person, so don't feel guilty about shopping locally elsewhere.",
+            "image": "royalMile"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Explore Edinburgh Castle",
             "content": "Full disclosure: as far as European castles go, this is nothing to write home about.",
-            "tip":"Ships in the Firth of Forth once set their maritime clocks by the One o’Clock Gun, which is still fired daily (except Sunday) from Edinburgh Castle.",
-            "image":"gladstonesLand"
+            "tip": "Ships in the Firth of Forth once set their maritime clocks by the One o’Clock Gun, which is still fired daily (except Sunday) from Edinburgh Castle.",
+            "image": "gladstonesLand"
           },
-          { "type":"SEE: ",
+          {
+            "type": "SEE: ",
             "title": "Princes Street Gardens",
             "content": "A gorgeous park in the middle of Edinburgh with beautiful views of Edinburgh castle. Don't miss the Sir Walter Scott monument.",
-            "image":"princesGardens"
+            "image": "princesGardens"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Edinburgh Bus Tour",
             "content": "Ok, hear me out. I know bus tours are generally pretty lame, but this one was well-done and a great introduction to the city for first-time visitors. I can't speak for all the guides, but ours was wonderful. We learned a lot about Edinburgh and all of our guides recommendations were legit.",
-            "image":"princesGardens"
+            "image": "princesGardens"
           },
-          { "type":"SEE: ",
+          {
+            "type": "SEE: ",
             "title": "Calton Hill",
             "content": "Neoclassical monuments, sweeping views of the city skyline and Edinburgh Castle. What's not to like?",
-            "image":"caltonHill"
+            "image": "caltonHill"
           },
-          { "type":"(maybe) SEE: ",
+          {
+            "type": "(maybe) SEE: ",
             "title": "Old Calton Cemetery",
             "content": "There are two types of people in this world: those that like to visit cemeteries and those that do not. If you're in the latter group, this is definitely skippable. If you're a cemetery-loving weirdo, you'll find this place to be conveniently located right by Calton Hill",
-            "image":"caltonCemetery"
+            "image": "caltonCemetery"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Sandy Bell's",
             "content": "This small, lively pub is known for having real ales and live Scottish folk music most nights. We were lucky enough to catch a trad session, which was absolutely amazing.",
             "tip": "This pub is near two other great Edinburgh attractions: the Greyfriars Bobby Statue and The Elephant House Cafe (where J.K. Rowling started writing Harry Potter).",
-            "image":"guildfordArms"
+            "image": "guildfordArms"
           },
-          { "type":"EAT: ",
+          {
+            "type": "EAT: ",
             "title": "(honestly not sure)",
             "shortTitle": "Eat & Drink",
             "content": "Finding good food in Edinburgh was tougher than we expected. We tried and didn't love: Deacon Brodie's Tavern, Whiski Rooms, The Barony, The Last Drop, and the Guildford Arms. If you want good food in Edinburgh, I think you'll need to do some research and be willing to commute away from the touristy areas and try non-Scottish fare.",
-            "image":"guildfordArms"
+            "image": "guildfordArms"
           }
         ]
       },
@@ -244,53 +267,61 @@
           }
         ],
         "postTitle": "Speyside",
-        "postBlurb":"WHERE IS THIS??",
+        "postBlurb": "Rolling green hills, friendly Scots, and more whisky you could ever imagine all await you in beautiful Speyside.",
         "postList": [
-          { "type":"STAY: ",
+          {
+            "type": "STAY: ",
             "title": "Cardhu Country House",
             "content": "Out of all the places we stayed on our Ireland and Scotland trip, this was our absolute favorite. The room was quaint and cozy, the hosts were friendly, and the breakfast was delicious. Grant got Buttered Moray Coast Kippers and I got whisky porridge. I still think about that porridge.",
-            "tip":"If the Macallan is on your to-do list (and it should be), this place is very close (about 15 minutes away).",
-            "image":"hubEdinburgh"
+            "tip": "If the Macallan is on your to-do list (and it should be), this place is very close (about 15 minutes away).",
+            "image": "hubEdinburgh"
           },
-          { "type":"DRINK: ",
+          {
+            "type": "DRINK: ",
             "title": "The Macallan",
             "content": "The Macallan, aka Malt Disney, is NEXT LEVEL. Even if you don't like Scotch, this place is well-worth a visit. How many opportunities will you have to sip Scotch in a $185 million building overlooking the River Spey?",
-            "tip":"There's not a lot of food options nearby, and the food at the Macallan is local, Scottish, and delicious.",
-            "image":"macallan"
+            "tip": "There's not a lot of food options nearby, and the food at the Macallan is local, Scottish, and delicious.",
+            "image": "macallan"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "experience traditional Scottish weaving at Johnston’s of Elgin",
             "shortTitle": "Johnston’s of Elgin",
             "content": "Established in 1797 on the River Lossie, Johnston's still produces high-quality cashmere garments and tartan in its Elgin Mill. There is a lot to see and do here: take a free tour of the mill, enjoy a meal in the Weavers Restaurant, and try not to empty your bank account in the Mill Shop. This place is a must-visit!",
-            "tip":"Try to go on a weekday, when all the looms will be in operation. Also, prices in the Mill Shop are much better than you'll find elsewhere, so go wild! Also, stop by nearby Elgin Cathedral.",
-            "image":"johnstons"
+            "tip": "Try to go on a weekday, when all the looms will be in operation. Also, prices in the Mill Shop are much better than you'll find elsewhere, so go wild! Also, stop by nearby Elgin Cathedral.",
+            "image": "johnstons"
           },
-          { "type":" (maybe) DRINK: ",
+          {
+            "type": " (maybe) DRINK: ",
             "title": "Glen Grant",
             "content": "Listen, there are a LOT of distilleries in Speyside. Glen Grant is nice, especially with its Victorian Garden, but not necessarily a must-see.",
-            "image":"macallan"
+            "image": "macallan"
           },
-          { "type":"DRINK: ",
+          {
+            "type": "DRINK: ",
             "title": "Tomatin",
             "content": "Tomatin is one of the few independently-owned distilleries in Speyside. We wanted to support them, but had an unexpectedly amazing experience. We wanted to drink whisky older than us and saw a dram of Tomatin 36 on the tasting menu. We savored every drop of the $20 pour, so much that the bartender said he'd never seen anyone make a dram last that long before.",
-            "tip":"The drive to this rural distillery is absolutely stunning!",
-            "image":"macallan"
+            "tip": "The drive to this rural distillery is absolutely stunning!",
+            "image": "macallan"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "exercise your right to roam",
             "shortTitle": "Exercise Your Right to Roam",
             "content": "The right to roam allows everyone to access most land and inland water in Scotland for recreational and other purposes, so take advantage of it! Get out and enjoy a hike, and don't be too proud to hop a fence or two.",
-            "image":"hike2"
+            "image": "hike2"
           },
-          { "type":"(probably don't) VISIT: ",
+          {
+            "type": "(probably don't) VISIT: ",
             "title": "Inverness",
             "content": "Known as the Gateway to the Highlands, Inverness is a tempting stopover on any Highlands visit. However, we only stayed for a few hours and couldn't find a whole lot to do.",
-            "image":"inverness"
+            "image": "inverness"
           },
-          { "type":"(don't) STAY: ",
+          {
+            "type": "(don't) STAY: ",
             "title": "Tulloch Castle",
             "content": "Should you try to stay in a Scottish Castle? Yes. Should you stay at Tulloch Castle? Absolutely not. The room was overpriced and a little dingy and the staff were sparse and irritable.",
-            "image":"tulloch"
+            "image": "tulloch"
           }
         ]
       }
@@ -298,6 +329,7 @@
   },
   {
     "title": "ireland",
+    "blurb": "Ireland blurb here!",
     "images": [
       {
         "altText": "guinness",
@@ -316,65 +348,88 @@
       }
     ],
     "subPages": [
-      { "name": "dublin", 
-        "blurb": "Must-See Dublin", 
+      {
+        "name": "dublin",
+        "blurb": "Must-See Dublin",
         "longName": "Dublin",
         "postType": "itinerary",
         "images": [
           {
-            "altText": "fairyHills",
-            "caption": "Isle of Skye",
-            "header": "The Fairy Hills"
-          },
-          {
-            "altText": "brothersPoint",
-            "caption": "Isle of Skye",
-            "header": "Brothers Point"
+            "altText": "guinness2",
+            "caption": "Learn how to pour a Guinness the right way",
+            "header": "The Guinness Storehouse"
           }
         ],
         "postTitle": "Must-See Dublin",
-        "postBlurb":"Dublin is full of history, attractions, and warm and friendly people. Eager to get out into the Irish countryside, we only had one full day in the city, but were able to see everything on our list.",
+        "postBlurb": "Dublin is full of history, attractions, and warm and friendly people. Eager to get out into the Irish countryside, we only had one full day in the city, but were able to see everything on our list.",
         "postList": [
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Book of Kells",
-            "shortTitle": "Portree",
             "content": "a.k.a. Super Touristy Thing that You Should Still Do Anyway #1. These illuminated manuscripts from the 9th century are a hugely popular tourist attraction in Dublin.",
             "tip": "After seeing the manuscripts, you'll go up a flight of stairs to the Long Room, one of the world's most beautiful libraries.",
-            "image":"longRoom"
+            "image": "longRoom"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "explore Trinity College",
             "shortTitle": "Trinity College",
             "content": "a.k.a. Super Touristy Thing that You Should Still Do Anyway #2. The campus at Trinity College is absolutely gorgeous and well worth a stroll after visiting the Book of Kells.",
-            "image":"trinity"
+            "image": "trinity"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "The Guinness Storehouse",
-            "content": "a.k.a. Super Touristy Thing that You Should Still Do Anyway #3. The lesson on how to pour a Guinness is well-worth the visit. Plus you get a fun little certificate! Woohoo!",
-            "image":"guinness2"
+            "content": "a.k.a. Super Touristy Thing that You Should Still Do Anyway #3. The lesson on how to properly pour a Guinness is well-worth the visit. Plus you get a fun little certificate! Woohoo!",
+            "image": "guinness2"
           },
-          { "type":"DO: ",
+          {
+            "type": "DO: ",
             "title": "Explore Temple Bar",
-            "content": "Temple Bar is touristy, but still beautiful and full of history",
-            "tip": "Don't miss the Molly Malone Statue and Ha'penny Bridge",
-            "image":"templeBar"
+            "shortTitle": "Temple Bar",
+            "content": "Temple Bar is touristy, but still beautiful and full of history.",
+            "tip": "Don't miss the Molly Malone Statue and Ha'penny Bridge.",
+            "image": "templeBar"
           },
-          { "type":"DRINK: ",
+          {
+            "type": "DRINK: ",
             "title": "at The Dame Tavern",
             "shortTitle": "The Dame Tavern",
-            "content": "Albeit a little (ok, a lot) touristy, this place is still worth visiting. The lesson on how to pour a Guinness is well-worth the visit. Plus you get a fun little certificate! Woohoo!",
-            "image":"dameTavern"
+            "content": "This turned out to be a hidden gem for us. Little did we know that the Dame is is known as one of the best small pubs in Dublin. We wandered in one night, and it was packed full of locals wearing Irish football jerseys and singing Irish pub songs. It felt like an authentic Irish pub experience.",
+            "image": "dameTavern"
           },
-          { "type":"EAT: ",
+          {
+            "type": "EAT: ",
             "title": "The Old Stand Pub",
-            "content": "Albeit a little (ok, a lot) touristy, this place is still worth visiting. The lesson on how to pour a Guinness is well-worth the visit. Plus you get a fun little certificate! Woohoo!",
-            "image":"guinness2"
+            "content": "This cozy, traditional pub was another hidden gem for us. We wandered in and our waiter was incredibly friendly and warm, and the food was tasty (well, by Ireland standards). Plus, it's a slice of Dublin's history (at over 300 years old) conveniently located in the heart of Temple Bar, a stone's throw from the Molly Malone Statue.",
+            "image": "dublin"
           }
         ]
-      
-      
       },
-      { "name": "galway", "blurb": "My favorite city in Ireland" },
+      {
+        "name": "galway",
+        "blurb": "Galway is my absolute favorite city in Ireland. If you're planning a trip to Ireland, you should definitely include Galway.",
+        "longName": "Galway",
+        "postType": "itinerary",
+        "images": [
+          {
+            "altText": "guinness2",
+            "caption": "Learn how to pour a Guinness the right way",
+            "header": "The Guinness Storehouse"
+          }
+        ],
+        "postTitle": "Must-See Dublin",
+        "postBlurb": "Dublin is full of history, attractions, and warm and friendly people. Eager to get out into the Irish countryside, we only had one full day in the city, but were able to see everything on our list.",
+        "postList": [
+          {
+            "type": "DO: ",
+            "title": "Book of Kells",
+            "content": "a.k.a. Super Touristy Thing that You Should Still Do Anyway #1. These illuminated manuscripts from the 9th century are a hugely popular tourist attraction in Dublin.",
+            "tip": "After seeing the manuscripts, you'll go up a flight of stairs to the Long Room, one of the world's most beautiful libraries.",
+            "image": "longRoom"
+          }
+        ]
+      },
       {
         "name": "dingle",
         "longName": "The Dingle Peninsula",
@@ -384,6 +439,7 @@
   },
   {
     "title": "canada",
+    "blurb": "Canada blurb here!",
     "images": [
       {
         "altText": "UBC",

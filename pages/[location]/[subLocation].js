@@ -33,6 +33,7 @@ export default function Location(props) {
         <h1 className="text-6xl m-6 font-bold dark:text-gray-100">
           {currentSubPage.postTitle}
         </h1>
+            <p>{currentSubPage.postBlurb}</p>
         <div className="grid lg:grid-cols-3 gap-4 sm:grid-cols-1">
           <div className="bg-navy dark:bg-green text-white p-4 text-left">
             <h2 className="m-0 text-center">
@@ -56,6 +57,7 @@ export default function Location(props) {
     
 
       <div className="p-9 dark:text-white">
+ 
         {currentSubPage.postList
           ? currentSubPage.postList.map((place, idx) => (
               <div className="justify-center py-3" key={idx}>
