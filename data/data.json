@@ -51,7 +51,7 @@
             "type": "DO: ",
             "title": "The Trotternish Loop! A MUST-SEE in Skye. It is absolutely gorgeous.",
             "shortTitle": "Trotternish Loop",
-            "content": "If you hit the road early and keep an eye on the clock, you can do the entire loop in a day. Although people come from all over the world to see Skye, there is very little infrastructure around the Trotternish attractions. i.e. none of the attractions have parking lots or restrooom facilities and you will be hard-pressed to find food for purchase anywhere. You will also mostly drive on one-lane roads. Pack a lunch and be prepared to do a few nature pees.",
+            "content": "If you hit the road early and keep an eye on the clock, you can do the entire loop in a day. Although people come from all over the world to see Skye, there is very little infrastructure around the Trotternish attractions. i.e. none of the attractions have parking lots or restroom facilities and you will be hard-pressed to find food for purchase anywhere. You will also mostly drive on one-lane roads. Pack a lunch and be prepared to do a few nature pees.",
             "image": "trotternish"
           },
           {
@@ -413,9 +413,24 @@
         "postType": "itinerary",
         "images": [
           {
-            "altText": "guinness2",
-            "caption": "Learn how to pour a Guinness the right way",
-            "header": "The Guinness Storehouse"
+            "altText": "galway",
+            "caption": "Excellent location for shopping, dining, and people-watching",
+            "header": "Quay Streey"
+          },
+          {
+            "altText": "galway2",
+            "caption": "Excellent location for shopping, dining, and people-watching",
+            "header": "Quay Streey"
+          },
+          {
+            "altText": "galway3",
+            "caption": "Excellent location for shopping, dining, and people-watching",
+            "header": "Quay Streey"
+          },
+          {
+            "altText": "moher",
+            "caption": "People come from all over the world to see these jaw-dropping cliffs.",
+            "header": "The Cliffs of Moher"
           }
         ],
         "postTitle": "Must-See Dublin",
