@@ -15,7 +15,7 @@ export default function NavigationBar(props) {
             <Nav.Link className="text-white" href="/ireland">Ireland</Nav.Link>
             <Nav.Link className="text-white" href="/scotland">Scotland</Nav.Link>
             <Nav.Link className="text-white" href="/canada">Canada</Nav.Link>
-            <NavDropdown className="text-white" title="Future Trips" id="basic-nav-dropdown">
+            {/* <NavDropdown className="text-white" title="Future Trips" id="basic-nav-dropdown">
               <NavDropdown.Item  href="/future-trips/turkey">
                 Turkey
               </NavDropdown.Item>
@@ -25,7 +25,7 @@ export default function NavigationBar(props) {
               <NavDropdown.Item href="/future-trips/south-korea">
                 South Korea
               </NavDropdown.Item>
-            </NavDropdown>
+            </NavDropdown> */}
           </Nav>
         </Navbar.Collapse>
         <ThemeToggler />
