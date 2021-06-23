@@ -407,6 +407,94 @@
         ]
       },
       {
+        "name": "dingle",
+        "longName": "The Dingle Peninsula",
+        "blurb": "Quaint, charming, and quintessentially Ireland.",
+        "postType": "itinerary",
+        "images": [
+          {
+            "altText": "atlanticOcean",
+            "caption": "Our gorgeous cottage was just steps from the beach.",
+            "header": "The Atlantic Ocean"
+          },
+          {
+            "altText": "coastalDingle",
+            "caption": "Dingle's coast is absolutely stunning. Do not miss Dunquin Pier.",
+            "header": "The Dingle Coastline"
+          },
+          {
+            "altText": "conorPass2",
+            "caption": "The drive through Conor Pass is considered to be one of the most scenic in Ireland.",
+            "header": "The Wild Atlantic Way"
+          }
+        ],
+        "postTitle": "Charming Irish Beauty",
+        "postBlurb": "You cannot miss Dingle on your next trip to Ireland. It has scenic beauty, quaint towns, and friendly people.",
+        "postList": [
+          {
+            "type": "SEE (on the way): ",
+            "title": "Barack Obama Plaza",
+            "content": "A charming petrol stop commemorating Obama's visit to this small town in Ireland. Replete with historical photos, documentary exhibits, and bronze statues of Michelle and Barack right out front.",
+            "tip": "Do check out the exhibit upstairs. We especially liked seeing the photos of homemade signs welcoming the \"O'Bamas\" to Ireland. Irish people really are the best.",
+            "image": "obamaPlaza"
+          },
+          {
+            "type": "SEE (on the way): ",
+            "title": "Adare",
+            "content": "At minimum, make sure to drive through this quaint historic town to witness the beautifully preserved thatched roof cottages. Stop in to get a quick coffee or snack for an up-close look.",
+            "image": "adare"
+          },
+          {
+            "type": "STAY: ",
+            "title": "Wild Rose Cottage",
+            "content": "A must-stay for those visiting the Dingle area and looking for an authentic, peaceful place to get cozy. Located ~30min outside Dingle over the Conor pass, you feel both removed from the world yet in the heart of what makes Ireland great. Mature gardens surround the cottage as salty ocean breezes fill the air with only a 10min walk to the beach. The immensely welcoming hosts provide home-baked goods to solidify this as the ultimate idyllic Irish getaway.",
+            "tip": "Ask the hosts for recommendations of local restaurants (and see our recommendation for James Ashe).",
+            "image": "wildRose"
+          },
+          {
+            "type": "EAT: ",
+            "title": "James Ashe",
+            "content": "James Ashe turned out to our #1 best meal in Ireland and a complete, welcome surprise. Recommended by Olga, our host at Wild Rose Cottage, we drove the short distance into town to catch the tail end of dinner service. Greeted with a cozy, intimate dining room with cobbled stone walls and wooden rafters, we instantly felt let in on a local secret. From seemingly handmade furniture to the aged wood bar and superbly hospitable service, this was a place I wish I could return to every week. Only one other couple was in the dining room a short bit until we eventually had the whole place to ourselves, roaring fireplace and all. The only other guests that night ended up being a group of local retirees come to play their weekly card games - a true addition to the authentic feeling of James Ashe. Savoring roast lamb, seafood pasta, and Irish whiskey in flickering firelight to the sounds of Irish locals catching up for the week is an unbeatable experience and one I'll never forget. ",
+            "tip": "The off-season lended to fewer people and more intimate experiences but James Ashe seems the perfect place whether crowded with revelers or solitary with a good book.",
+            "image": "jamesAshe"
+          },
+          {
+            "type": "DO: ",
+            "title": "Conor Pass",
+            "content": "A fun drive to approach the town of Dingle and witness the sprawling Irish countryside. Punctuated with gorgeous views and occasional waterfalls, the road rises up to a stunning view on both sides of the pass. Descending into town you're benefitted with sweeping views of the surrounding farms, overhead views of the town, and the Basket Islands in the Atlantic for miles and miles.",
+            "image": "conorPass"
+          },
+          {
+            "type": "DO: ",
+            "title": "Explore Dingle",
+            "shortTitle": "Dingle",
+            "content": "Dingle is a quintessential Irish port town located on the Wild Atlantic Way on the Southwest coast of Ireland. Tourist busses coming in and out of town provide a man-made ebb and flow of the energy in the colorfully painted town. While touristy, Dingle retains much character, charm, and historic significance along with feeling welcoming upon your first step into town. The town has plenty of artisan shops filled with locally made goods, notably including handwoven scarves at Fiadh and award-winning gin at Dingle Distillery. Dingle also has a famous dolphin named Fungie, who lived in the area after being separated from his pod. Be sure to give yourself enough time to have a meal (or two), check out the shops, and explore the picturesque town.",
+            "tip": "Sign up for a tour of Dingle Distillery long in advance. Irish laws prohibit selling liquor on-site at the distillery, so if you want any more than the small taster on the tour, you'll have to find it in local institutions. Chat with the owner and weaver at Fiadh for some insight into her handmade goods and her family heritage living in the area. Also check out the adjacent areas or drive a bit along the Wild Atlantic Way.",
+            "image": "dingle"
+          },
+          {
+            "type": "DO: ",
+            "title": "Slea Head Drive",
+            "content": "An unrelentingly scenic drive around the Dingle peninsula. This is the route you will likely take to visit Dunquin Pier from the town of Dingle. ",
+            "tip": "Drive the full loop if you have time!",
+            "image": "sleaHead"
+          },
+          {
+            "type": "DO: ",
+            "title": "Dunquin Pier",
+            "content": "Our favorite stop on the Wild Atlantic way within the Dingle area, Dunquin Pier is semi-famous across the world for images of stuck cars attempting to navigate the steep, winding pathway. A unique must-see, the pier is just a short journey from Dingle and offers breathtaking views of the ocean and Basket Islands, though it's main appeal is the steep, winding way down to the water. ",
+            "tip": "Do walk all the way down to the pier if you are able. The way is steep, so be sure of your mobility and have good shoes. Rainy days, of which there are many, may provide additional challenge for some.",
+            "image": "dunquinPier"
+          },
+          {
+            "type": "EAT (on the way out): ",
+            "title": "Ballyseede Castle",
+            "content": "A fun castle to visit for lunch on your way out from the Dingle peninsula.",
+            "image": "ballyseede"
+          }
+        ]
+      },
+      {
         "name": "galway",
         "blurb": "Galway is my absolute favorite city in Ireland. If you're planning a trip to Ireland, you should definitely include Galway.",
         "longName": "Galway",
@@ -440,102 +528,36 @@
             "type": "STAY: ",
             "title": "Snoozles on Quay Street",
             "content": "Hostels are a great way to stay within budget while staying in interesting places. Snoozles on Quay Street provides great accommodation in a phenomenal location, just a couple blocks from the Spanish Arch, Latin Quarter, and right on a bustling pedestrian promenade. It's a great hostel for travelers of nearly every budget.",
-            "tip": "Ask for a room that overlooks Quay St. You'll be gifted with music from street performers and can take in the energy from the shoppers, diners, and locals just below."
+            "tip": "Ask for a room that overlooks Quay St. You'll be gifted with music from street performers and can take in the energy from the shoppers, diners, and locals just below.",
+            "image": "snoozles"
           },
           {
             "type": "DRINK: ",
             "title": "Galway Craft Beer Tour",
             "content": "Galway is far from lacking phenomenal pubs, but it can be a challenge to uncover which libations are truly local to Ireland. Galway Craft Beer Tours lifts the veil on where the locals like to drink and showcases smaller breweries on a tour around the city. Visiting several bars, you'll hear about the breweries and beers you're sampling along with learning more about craft brewing in Ireland. It's an enjoyable crash course in local establishments, Irish breweries, and living briefly like a local.",
-            "tip": "Write down the places you go to so you can return to your favorites!"
+            "tip": "Write down the places you go to so you can return to your favorites!",
+            "image": "galwayBeerTour"
           },
           {
             "type": "DO: ",
             "title": "Cliffs of Moher",
             "content": "One of Ireland's most visited tourist destinations and a beautiful, rugged look at the Irish landscape. Rising from the sea and face-to-face with the wild Atlantic, the Cliffs of Moher are the most notorious cliffs in Ireland. Typically packed with tourists at peak season, the cliffs offer a more relaxed experience in the off-season.",
-            "tip": "Peak season - arrive exceedingly early. You can benefit from arriving early in the off-season as well but the site may still be popular. Or do like we did and visit on the morning of a day when a hurricane is expected to make landfall that evening and you'll enjoy the cliffs nearly to yourself."
+            "tip": "Peak season - arrive exceedingly early. You can benefit from arriving early in the off-season as well but the site may still be popular. Or do like we did and visit on the morning of a day when a hurricane is expected to make landfall that evening and you'll enjoy the cliffs nearly to yourself.",
+            "image": "moher2"
           },
           {
             "type": "DO: ",
             "title": "Explore Galway's West End",
             "shortTitle": "Galway's West End",
-            "content": "A trendy section of the city, Galway's West End is a thriving hub of culinary creativity, lively bars, and trendy shops. A Galway Craft Beer Tour will shepherd you through this area but be sure to visit in the day when shops are open as well."
+            "content": "A trendy section of the city, Galway's West End is a thriving hub of culinary creativity, lively bars, and trendy shops. A Galway Craft Beer Tour will shepherd you through this area but be sure to visit in the day when shops are open as well.",
+            "image": "galwayWest"
           },
           {
             "type": "DRINK: ",
             "title": "at the King's Head",
             "shortTitle": "The King's Head",
-            "content": "Nothing like a whiskey and a pint in an 800+ year old historic building to give you a romantic feeling about Ireland."
-          }
-        ]
-      },
-      {
-        "name": "dingle",
-        "longName": "The Dingle Peninsula",
-        "blurb": "Quaint, charming, and quintessentially Ireland.",
-        "postType": "itinerary",
-        "images": [
-          {
-            "altText": "guinness2",
-            "caption": "Learn how to pour a Guinness the right way",
-            "header": "The Guinness Storehouse"
-          }
-        ],
-        "postTitle": "Charming Irish Beauty",
-        "postBlurb": "You cannot miss Dingle on your next trip to Ireland. It has scenic beauty, quaint towns, and friendly people.",
-        "postList": [
-          {
-            "type": "SEE (on the way): ",
-            "title": "Barack Obama Plaza",
-            "content": "A charming petrol stop commemorating Obama's visit to this small town in Ireland. Replete with historical photos, documentary exhibits, and bronze statues of Michelle and Barack right out front.",
-            "tip": "Do check out the exhibit upstairs. We especially liked seeing the photos of homemade signs welcome the 'O'Bamas' to Ireland. Irish people really are the best.",
-            "image":"obamaPlaza"
-          },
-          {
-            "type": "SEE (on the way): ",
-            "title": "Adare",
-            "content": "At minimum, make sure to drive through this quaint historic town to witness the beautifully preserved thatched roof cottages. Stop in to get a quick coffee or snack for an up-close look."
-            "image":"adare"
-          },
-          {
-            "type": "STAY: ",
-            "title": "Wild Rose Cottage",
-            "content": "A must-stay for those visiting the Dingle area and looking for an authentic, peaceful place to get cozy. Located ~30min outside Dingle over the Conor pass, you feel both removed from the world yet in the heart of what makes Ireland great. Mature gardens surround the cottage as salty ocean breezes fill the air with only a 10min walk to the beach. The immensely welcoming hosts provide home-baked goods to solidify this as the ultimate idyllic Irish getaway.",
-            "tip": "Ask the hosts for recommendations of local restaurants (and see our recommendation for James Ashe)."
-          },
-          {
-            "type": "EAT: ",
-            "title": "James Ashe",
-            "content": "James Ashe turned out to our #1 best meal in Ireland and a complete, welcome surprise. Recommended by Olga, our host at Wild Rose Cottage, we drove the short distance into town to catch the tail end of dinner service. Greeted with a cozy, intimate dining room with cobbled stone walls and wooden rafters, we instantly felt let in on a local secret. From seemingly handmade furniture to the aged wood bar and superbly hospitable service, this was a place I wish I could return to every week. Only one other couple was in the dining room a short bit until we eventually had the whole place to ourselves, roaring fireplace and all. The only other guests that night ended up being a group of local retirees come to play their weekly card games - a true addition to the authentic feeling of James Ashe. Savoring roast lamb, seafood pasta, and Irish whiskey in flickering firelight to the sounds of Irish locals catching up for the week is an unbeatable experience and one I'll never forget. ",
-            "tip": "The off-season lended to fewer people and more intimate experiences but James Ashe seems the perfect place whether crowded with revelers or solitary with a good book."
-          },
-          {
-            "type": "DO: ",
-            "title": "Conor Pass",
-            "content": "A fun drive to approach the town of Dingle and witness the sprawling Irish countryside. Punctuated with gorgeous views and occasional waterfalls, the road rises up to a stunning view on both sides of the pass. Descending into town you're benefitted with sweeping views of the surrounding farms, overhead views of the town, and the Basket Islands in the Atlantic for miles and miles."
-          },
-          {
-            "type": "DO: ",
-            "title": "Explore Dingle",
-            "shortTitle": "Dingle",
-            "content": "Dingle is a quintessential Irish port town located on the Wild Atlantic Way on the Southwest coast of Ireland. Tourist busses coming in and out of town provide a man-made ebb and flow of the energy in the colorfully painted town. While touristy, Dingle retains much character, charm, and historic significance along with feeling welcoming upon your first step into town. The town has plenty of artisan shops filled with locally made goods, notably including handwoven scarves at Fiadh and award-winning gin at Dingle Distillery. Dingle also has a famous dolphin named Fungie, who lived in the area after being separated from his pod. Be sure to give yourself enough time to have a meal (or two), check out the shops, and explore the picturesque town.",
-            "tip": "Sign up for a tour of Dingle Distillery long in advance. Irish laws prohibit selling liquor on-site at the distillery, so if you want any more than the small taster on the tour, you'll have to find it in local institutions. Chat with the owner and weaver at Fiadh for some insight into her handmade goods and her family heritage living in the area. Also check out the adjacent areas or drive a bit along the Wild Atlantic Way."
-          },
-          {
-            "type": "DO: ",
-            "title": "Slea Head Drive",
-            "content": "An unrelentingly scenic drive around the Dingle peninsula. This is the route you will likely take to visit Dunquin Pier from the town of Dingle. ",
-            "tip": "Drive the full loop if you have time!"
-          },
-          {
-            "type": "DO: ",
-            "title": "Dunquin Pier",
-            "content": "Our favorite stop on the Wild Atlantic way within the Dingle area, Dunquin Pier is semi-famous across the world for images of stuck cars attempting to navigate the steep, winding pathway. A unique must-see, the pier is just a short journey from Dingle and offers breathtaking views of the ocean and Basket Islands, though it's main appeal is the steep, winding way down to the water. ",
-            "tip": "Do walk all the way down to the pier if you are able. The way is steep, so be sure of your mobility and have good shoes. Rainy days, of which there are many, may provide additional challenge for some."
-          },
-          {
-            "type": "EAT (on the way out): ",
-            "title": "Ballyseede Castle",
-            "content": "A fun castle to visit for lunch on your way out from the Dingle peninsula."
+            "content": "Nothing like a whiskey and a pint in an 800+ year old historic building to give you a romantic feeling about Ireland.",
+            "image": "kingsHead"
           }
         ]
       }
@@ -564,11 +586,61 @@
     "subPages": [
       {
         "name": "vancouver",
-        "blurb": "Delicious food, friendly people, and gorgeous scenery."
+        "longName": "Vancouver, British Columbia",
+        "blurb": "Delicious food, friendly people, and gorgeous scenery.",
+        "postType": "itinerary",
+        "images": [
+          {
+            "altText": "vanDusen",
+            "caption": "A gorgeous botanical garden in the heart of Vancouver.",
+            "header": "VanDusen Botanical Garden"
+          },
+          {
+            "altText": "queenElizabethPark",
+            "caption": "A well-manicured park with views of downtown Vancouver.",
+            "header": "Queen Elizabeth Park"
+          }
+        ],
+        "postTitle": "Two Perfect Days in Skye",
+        "postBlurb": "Skye is absolutely stunning and full of natural beauty.",
+        "postList": [
+          {
+            "type": "STAY: ",
+            "title": "Portree",
+            "shortTitle": "Portree",
+            "content": "Portree is Skye's largest town. Plus, it's just a cute little village and centrally located.",
+            "image": "portree"
+          }
+        ]
       },
       {
         "name": "whistler",
-        "blurb": "World-class skiing and breathtaking scenery."
+        "longName": "Vancouver, British Columbia",
+        "blurb": "World-class skiing and breathtaking scenery.",
+        "postType": "itinerary",
+        "images": [
+          {
+            "altText": "whistler",
+            "caption": "Regardless of whether you ski, the peak of Whistler Mountain offers stunning views.",
+            "header": "Whistler Mountain"
+          },
+          {
+            "altText": "skiWhistler",
+            "caption": "World-class skiing awaits at Whistler-Blackcomb.",
+            "header": "Whistler Blackcomb Ski Resort"
+          }
+        ],
+        "postTitle": "Two Perfect Days in Skye",
+        "postBlurb": "Skye is absolutely stunning and full of natural beauty.",
+        "postList": [
+          {
+            "type": "STAY: ",
+            "title": "Portree",
+            "shortTitle": "Portree",
+            "content": "Portree is Skye's largest town. Plus, it's just a cute little village and centrally located.",
+            "image": "portree"
+          }
+        ]
       },
       { "name": "victoria", "blurb": "Beautiful island." }
     ]
