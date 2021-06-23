@@ -26,12 +26,12 @@ export default function ImageCarousel(props) {
       {images.map((image, idx) => {
         return (
           <Carousel.Item key={idx}>
-            <Image
+            <img
               className="d-block w-100"
               src={image.src}
               alt={image.alt}
-              width={750}
-              height={562}
+              // width={750}
+              // height={562}
             />
             <Carousel.Caption>
               <h3>{image.header}</h3>
