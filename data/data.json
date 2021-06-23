@@ -447,19 +447,20 @@
             "title": "Galway Craft Beer Tour",
             "content": "Galway is far from lacking phenomenal pubs, but it can be a challenge to uncover which libations are truly local to Ireland. Galway Craft Beer Tours lifts the veil on where the locals like to drink and showcases smaller breweries on a tour around the city. Visiting several bars, you'll hear about the breweries and beers you're sampling along with learning more about craft brewing in Ireland. It's an enjoyable crash course in local establishments, Irish breweries, and living briefly like a local.",
             "tip": "Write down the places you go to so you can return to your favorites!"
-          },      {
+          },
+          {
             "type": "DO: ",
             "title": "Cliffs of Moher",
             "content": "One of Ireland's most visited tourist destinations and a beautiful, rugged look at the Irish landscape. Rising from the sea and face-to-face with the wild Atlantic, the Cliffs of Moher are the most notorious cliffs in Ireland. Typically packed with tourists at peak season, the cliffs offer a more relaxed experience in the off-season.",
             "tip": "Peak season - arrive exceedingly early. You can benefit from arriving early in the off-season as well but the site may still be popular. Or do like we did and visit on the morning of a day when a hurricane is expected to make landfall that evening and you'll enjoy the cliffs nearly to yourself."
-          },  
-              {
-          	"type": "DO: ",
+          },
+          {
+            "type": "DO: ",
             "title": "Explore Galway's West End",
             "shortTitle": "Galway's West End",
             "content": "A trendy section of the city, Galway's West End is a thriving hub of culinary creativity, lively bars, and trendy shops. A Galway Craft Beer Tour will shepherd you through this area but be sure to visit in the day when shops are open as well."
-          },     
-           {
+          },
+          {
             "type": "DRINK: ",
             "title": "at the King's Head",
             "shortTitle": "The King's Head",
@@ -487,27 +488,32 @@
             "title": "Barack Obama Plaza",
             "content": "A charming petrol stop commemorating Obama's visit to this small town in Ireland. Replete with historical photos, documentary exhibits, and bronze statues of Michelle and Barack right out front.",
             "tip": "Do check out the exhibit upstairs. We especially liked seeing the photos of homemade signs welcome the 'O'Bamas' to Ireland. Irish people really are the best.",
-            "image":"obamaPlaza.jpg"
+            "image":"obamaPlaza"
           },
           {
             "type": "SEE (on the way): ",
             "title": "Adare",
             "content": "At minimum, make sure to drive through this quaint historic town to witness the beautifully preserved thatched roof cottages. Stop in to get a quick coffee or snack for an up-close look."
-          },       {
+            "image":"adare"
+          },
+          {
             "type": "STAY: ",
             "title": "Wild Rose Cottage",
             "content": "A must-stay for those visiting the Dingle area and looking for an authentic, peaceful place to get cozy. Located ~30min outside Dingle over the Conor pass, you feel both removed from the world yet in the heart of what makes Ireland great. Mature gardens surround the cottage as salty ocean breezes fill the air with only a 10min walk to the beach. The immensely welcoming hosts provide home-baked goods to solidify this as the ultimate idyllic Irish getaway.",
             "tip": "Ask the hosts for recommendations of local restaurants (and see our recommendation for James Ashe)."
-          },       {
+          },
+          {
             "type": "EAT: ",
             "title": "James Ashe",
             "content": "James Ashe turned out to our #1 best meal in Ireland and a complete, welcome surprise. Recommended by Olga, our host at Wild Rose Cottage, we drove the short distance into town to catch the tail end of dinner service. Greeted with a cozy, intimate dining room with cobbled stone walls and wooden rafters, we instantly felt let in on a local secret. From seemingly handmade furniture to the aged wood bar and superbly hospitable service, this was a place I wish I could return to every week. Only one other couple was in the dining room a short bit until we eventually had the whole place to ourselves, roaring fireplace and all. The only other guests that night ended up being a group of local retirees come to play their weekly card games - a true addition to the authentic feeling of James Ashe. Savoring roast lamb, seafood pasta, and Irish whiskey in flickering firelight to the sounds of Irish locals catching up for the week is an unbeatable experience and one I'll never forget. ",
             "tip": "The off-season lended to fewer people and more intimate experiences but James Ashe seems the perfect place whether crowded with revelers or solitary with a good book."
-          },       {
+          },
+          {
             "type": "DO: ",
             "title": "Conor Pass",
             "content": "A fun drive to approach the town of Dingle and witness the sprawling Irish countryside. Punctuated with gorgeous views and occasional waterfalls, the road rises up to a stunning view on both sides of the pass. Descending into town you're benefitted with sweeping views of the surrounding farms, overhead views of the town, and the Basket Islands in the Atlantic for miles and miles."
-          },       {
+          },
+          {
             "type": "DO: ",
             "title": "Explore Dingle",
             "shortTitle": "Dingle",
@@ -519,18 +525,18 @@
             "title": "Slea Head Drive",
             "content": "An unrelentingly scenic drive around the Dingle peninsula. This is the route you will likely take to visit Dunquin Pier from the town of Dingle. ",
             "tip": "Drive the full loop if you have time!"
-          },   {
+          },
+          {
             "type": "DO: ",
             "title": "Dunquin Pier",
             "content": "Our favorite stop on the Wild Atlantic way within the Dingle area, Dunquin Pier is semi-famous across the world for images of stuck cars attempting to navigate the steep, winding pathway. A unique must-see, the pier is just a short journey from Dingle and offers breathtaking views of the ocean and Basket Islands, though it's main appeal is the steep, winding way down to the water. ",
             "tip": "Do walk all the way down to the pier if you are able. The way is steep, so be sure of your mobility and have good shoes. Rainy days, of which there are many, may provide additional challenge for some."
-          },  
-           {
+          },
+          {
             "type": "EAT (on the way out): ",
             "title": "Ballyseede Castle",
             "content": "A fun castle to visit for lunch on your way out from the Dingle peninsula."
           }
-        
         ]
       }
     ]
