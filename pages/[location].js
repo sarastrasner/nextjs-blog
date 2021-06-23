@@ -1,6 +1,7 @@
 import locationData from '@/data/data.json';
 import Carousel from '@/components/Carousel';
 import { useRouter } from 'next/router';
+import Head from 'next/head';
 
 export function getStaticPaths() {
   return { paths: [], fallback: true };
@@ -37,6 +38,12 @@ export default function Location(props) {
   return (
     <>
       <div className="flex flex-col items-center justify-center pb-5">
+      <Head>
+          <title>
+            Strassy Travels | {title}
+          </title>
+          <link rel="icon" href="/favicon.ico" />
+        </Head>
         <main className="flex flex-col items-center justify-center flex-1 px-20 text-center text-navy">
           <h1 className="text-6xl m-6 font-bold dark:text-gray-100">{title}</h1>
 
