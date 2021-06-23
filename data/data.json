@@ -333,24 +333,24 @@
     "images": [
       {
         "altText": "guinness",
-        "caption": "Guinness!!",
+        "caption": "A must-visit in Ireland",
         "header": "The Guinness Experience"
       },
       {
         "altText": "dunquin",
-        "caption": "caption",
+        "caption": "on the Dingle Peninsila",
         "header": "Dunquin Pier"
       },
       {
         "altText": "moher",
-        "caption": "caption",
+        "caption": "Experience the best of Ireland's west coast",
         "header": "The Cliffs of Moher"
       }
     ],
     "subPages": [
       {
         "name": "dublin",
-        "blurb": "Must-See Dublin",
+        "blurb": "What to see and do in the Irish capitol",
         "longName": "Dublin",
         "postType": "itinerary",
         "images": [
@@ -496,7 +496,7 @@
       },
       {
         "name": "galway",
-        "blurb": "Galway is my absolute favorite city in Ireland. If you're planning a trip to Ireland, you should definitely include Galway.",
+        "blurb": "My absolute favorite city in Ireland.",
         "longName": "Galway",
         "postType": "itinerary",
         "images": [
