@@ -42,7 +42,7 @@ export default function Location(props) {
 
   return (
     <div className="flex flex-col items-center text-navy justify-center pb-5">
-      <div className="flex flex-col items-center justify-center flex-1 px-20 text-center">
+      <div className="flex flex-col items-center justify-center flex-1 lg:px-20 text-center">
         <Head>
           <title>
             Strassy Travels | {subRegionTitle}, {regionTitle}
